@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "thehardwayoverrun";
+  src: url("thwor.otf");
+}
+
+h1 {
+    font-family: "thehardwayoverrun", sans-serif;
+    font-weight: 100;
+    letter-spacing: 1px;
+    color: #D28A0D;
+    text-align: center;
+    font-size: 500%;
+}
+
+h2 {
+    font-family: "thehardwayoverrun", sans-serif;
+    font-weight: 100;
+    letter-spacing: 1px;
+    color: #D28A0D;
+    text-align: center;
+    font-size: 300%;
+}
+
+html {
+    background-color: #333;
+    color: #eee;
+}
